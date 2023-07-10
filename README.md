@@ -13,9 +13,9 @@
 - ✅ View Individual response & print option as well 
 
 
-## Language
+## Languages
 
--Vue Js
--HTML
--Json
+- Vue Js
+- HTML
+- Json
 
